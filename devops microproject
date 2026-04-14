@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CI/CD Web App</title>
+<style>
+body {
+    text-align: center;
+    font-family: Arial;
+    background: linear-gradient(to right, #36d1dc, #5b86e5);
+    color: white;
+}
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<h1>🚀 CI/CD Web Application</h1>
+<p>Deployed using Docker & AWS</p>
+
+<button onclick="showMessage()">Click Me</button>
